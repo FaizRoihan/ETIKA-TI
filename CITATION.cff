@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: "Dataset Pengaruh TikTok Terhadap\_Etika\_Remaja"
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Muhammad Faiz
+    family-names: Roihan
+    email: 5026231098@student.its.ac.id
+  - given-names: Fachreza Aptadhi
+    family-names: Kurniawan
+    email: 5026231135@student.its.ac.id
+  - given-names: Sultan Alamysah Lintang
+    family-names: Mubarok
+    email: 5026231188@student.its.ac.id
+  - email: nur.aini@is.its.ac.id
+    given-names: Nur Aini
+    family-names: Rakhmawati
